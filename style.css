@@ -12,6 +12,10 @@ header {
   text-align: center;
 }
 
+nav {
+  word-spacing: 30px
+}
+
 footer {
   text-align: center;
 }
